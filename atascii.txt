@@ -1,0 +1,3 @@
+The 8-bit Atari ATASCII font. Data is monochome bits, 8 bytes per character, each byte representing a single row.
+
+Note that this font data is NOT in ASCII order (I don't know why). 
